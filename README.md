@@ -1,54 +1,54 @@
-# Módulo de carrossel de produtos para OpenCart
+# Products Carousel Module for OpenCart
 
-## Descrição
-Carrossel (slideshow) de produtos para a sua loja.
+## Description
+Carousel (Slideshow) products for your store.
 
-## Requisitos
+## Requirements
 - OpenCart 3.0.3.2
 
-## Instalação
+## Installation
 
-- Faça um backup da sua loja;
-- Baixe o repositório como arquivo zip ou faça um clone;
-- Copie as pastas admin e catalog para dentro de sua instalação OpenCart;
-- Certifique-se de que as permissões das pastas e arquivos recém copiados sejam, respectivamente, definidas como 755 e 644;
-- Na área administrativa do seu sistema, acesse o menu Extensions -> Extensions, selecione o tipo de extensão Modules, localize a extensão Carrossel de Produtos e clique em instalar.
+- Back up your store;
+- Download the repository as a zip file or make a clone;
+- Copy the Admin and Catalog folders into your OpenCart installation;
+- Make sure that the permissions of the folder and files recently copied are, respectively, defined as 755 and 644;
+- In the administrative area of ​​your system, go to the Extensions -> Extensions menu, select the modules extension type, locate the product carousel extension, and then click Install.
 
-## Configuração
+## Settings
 
-Para criar um carrossel de produtos para a sua loja, acesse o menu Extensions -> Extensions, selecione o tipo de extensão Modules,  localize a extensão Carrossel de Produtos e clique em New. As opções disponíveis estão descritas abaixo:
+To create a product carousel for your store, go to the Extensions -> Extensions menu, select the modules extension type, locate the product carousel extension and click New. The available options are described below:
 
-- **Título do módulo:** Título do carrossel de produtos. Exemplo: Mais vendidos, Destaques.
-- **Produtos:** Selecione os produtos que deseja aparecer no carrossel de produtos.
-- **Limite:** Quantidade máxima de produtos para exibição.
-- **Largura:** Largura do quadro do produto.
-- **Altura:** Altura do quadro do produto.
-- **Slides por visualização:** Quantidade de produtos por slide para exibição. 
-- **Tempo autoplay:** Tempo de exibição de um slide para outro.
-- **Loop:** Passagem automática entre slides.
-- **Situação:** habilitar/desabilitar o módulo.
+- ** Module title: ** Products carousel title. Example: best selling, highlights.
+- ** Products: ** Select the products you want to appear on the product carousel.
+- ** Limit: ** Maximum amount of products for display.
+- ** Width: ** Product frame width.
+- ** Height: ** Height of the product frame.
+- ** Slides by viewing: ** Number of products per slide for display.
+- ** Time Autoplay: ** Display time for another slide.
+- ** Loop: ** Automatic passage between slides.
+- ** Situation: ** Enable / disable the module.
 
-Em seguida, insira o carrossel de produtos em algum layout da sua loja. 
+Then insert the carousel from products in some layout of your store.
 
-Exemplo: Para inserir na página inicial: Design -> Layouts -> Página principal.
-Em Selecione a posição dos módulos, selecione o seu carrossel de produtos e insira onde desejar.
+Example: To insert on the home page: Design -> Layouts -> Home page.
+Under Select the position of the modules, select your product carousel and enter where you want.
 
 ## Layout
 
-![alt text](https://atividadeon.com.br/static/img/readme-example.png)
+! [ALT TEXT] (https://ividadeon.com/static/img/reeadme-example.png)
 
-## Licença
+## License
 
 The MIT License (MIT)
 
-## Dúvidas?
-Em caso de dúvidas mande um e-mail para romulorodrigue@gmail.com
+## Doubts?
+If you have an e-mail to romulorodrigue@gmail.com
 
-## Contribuições
+## Contributions
 
-Achou e corrigiu um bug ou tem alguma feature em mente e deseja contribuir?
+Did you find it and correct a bug or do you have any feature in mind and want to contribute?
 
-- Faça um fork.
-- Adicione sua feature ou correção de bug.
-- Envie um pull request no GitHub.
-
+- Make a fork.
+- Add your feature or bug fix.
+- Send a pull request in GitHub. 
+- 
